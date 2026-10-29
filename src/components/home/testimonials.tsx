@@ -33,14 +33,14 @@ const testimonials = [
       '"From The Pristine Beaches Of Phuket To The Vibrant Night Markets, Every Moment Was Picture-Perfect. The Itinerary Struck The Ideal Balance Between Adventure And Relaxation."',
     name: "Emily Rodriguez",
     location: "Barcelona, Spain",
-    image: null,
+    image: "/assets/person1.png",
   },
   {
     quote:
       '"Our Family Trip To Kyoto Was Flawlessly Organized. The Children Loved Every Activity And We Discovered Sides Of Japan We Never Knew Existed."',
     name: "David Thompson",
     location: "London, UK",
-    image: null,
+    image: "/assets/person2.png",
   },
 ];
 
